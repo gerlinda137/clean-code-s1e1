@@ -47,11 +47,11 @@
 }
 
 .tasks__item, h3 {
-  list-style:none;
+  list-style: none;
 }
 
 input,button{
-  outline:none;
+  outline: none;
 }
 
 button {
@@ -154,14 +154,14 @@ label[for='new-task'] {
 
 /* Edit Task */
 .tasks__item .task__input {
-  display:none
+  display: none
 }
 
 .tasks__item.edit-mode .task__input {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .tasks__item.edit-mode label {
-  display:none;
+  display: none;
 }
